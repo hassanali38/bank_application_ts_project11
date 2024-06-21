@@ -1,0 +1,21 @@
+{
+  "name": "bank-application-byhassanali",
+  "version": "1.0.1",
+  "description": "This is a bank application coded in typescript and using packages such as inquirer and chalk. It allows the user to create new bank accounts and generating random credit card number for each account. Moreover, the application allows the user to manage the already created bank accounts and to perform operations, also ensures the security concerns of related to banking operations.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2",
+    "chalk": "^5.3.0",
+    "countdown-timer-byhassanali": "^1.0.0",
+    "inquirer": "^9.2.23"
+  }
+}
