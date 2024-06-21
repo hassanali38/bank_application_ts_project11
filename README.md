@@ -23,7 +23,7 @@ This is a command-line bank application written in TypeScript. It allows users t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bank-application.git
+   git clone https://github.com/hassanali38/bank_application_ts_project11.git
    ```
 
 2. Install the dependencies:
@@ -46,9 +46,9 @@ This is a command-line bank application written in TypeScript. It allows users t
 
 1. You can also run directly by running the npx command on the cmd terminal:
 
-  ```bash
-  npx bank-application-byhassanali
-  ```
+   ```bash
+   npx bank-application-byhassanali
+   ```
 
 ## Creating an Account
 
