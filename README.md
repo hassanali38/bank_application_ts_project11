@@ -42,7 +42,7 @@ This is a command-line bank application written in TypeScript. It allows users t
 
 2. Follow the on-screen prompts to interact with the application.
 
-                                                               OR
+## Running by npx Command:
 
 1. You can also run directly by running the npx command on the cmd terminal:
 
